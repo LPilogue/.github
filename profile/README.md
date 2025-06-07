@@ -1,14 +1,18 @@
 # LPilogue
 
 ## Introduction
-
+### Is there a way to express emotions and relieve stress in a busy daily life? 
+[LPilogue (LP + epilogue)](https://lpilogue.vercel.app/) is an AI-powered service designed to help people reflect on their emotions and promote healing.
+In today’s busy modern society, many people live without taking care of their emotions.
+However, simply recognizing and expressing emotions can provide psychological stability, and music can help with healing.
+LPilogue analyzes users’ daily diaries to understand their emotions and provides personalized comforting messages along with music recommendations, guiding them on a journey of emotional well-being and self-discovery.
 <br/>
 
 ## Team
 
 |<img src="https://avatars.githubusercontent.com/u/140133130?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/156580769?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/92977621?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/53937347?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|
-|[@1stMourinhoFan](https://github.com/1stMourinhoFan)|[@Kim-songhui](https://github.com/Kim-songhui)|Park yejin<br/>[@yezzan9](https://github.com/yezzan9)|Jin JunWoo<br/>[@wlswnsdn](https://github.com/wlswnsdn)|
+|Kang Jiyoon<br/>[@1stMourinhoFan](https://github.com/1stMourinhoFan)|Kim Songhui<br/>[@Kim-songhui](https://github.com/Kim-songhui)|Park Yejin<br/>[@yezzan9](https://github.com/yezzan9)|Jin JunWoo<br/>[@wlswnsdn](https://github.com/wlswnsdn)|
 <br/>
   
 ## Tech Stack 
