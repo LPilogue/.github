@@ -81,8 +81,41 @@ HTTP Client: Axios
 <br/>
 
 ## Screen composition
+### Sign up
+<img width="300" alt="스크린샷 2025-06-10 오후 5 49 57" src="https://github.com/user-attachments/assets/8c738b1a-2cee-410a-932e-c654535030dc" />
+<img width="300" alt="스크린샷 2025-06-10 오후 5 50 03" src="https://github.com/user-attachments/assets/7aa69c54-359d-41b6-9218-99871eed858b" />
+<img width="300" alt="스크린샷 2025-06-10 오후 5 49 50" src="https://github.com/user-attachments/assets/59b5f600-e52b-44c0-b641-a6930905cc81" />
+
+### Onboarding
+<img width="300" alt="스크린샷 2025-06-10 오후 6 02 34" src="https://github.com/user-attachments/assets/ab72120f-31e6-4ccc-a2b6-5e069275e9c9" />
+<img width="300" alt="스크린샷 2025-06-10 오후 6 02 40" src="https://github.com/user-attachments/assets/74c10ec2-bd1c-46d7-b3f8-3216cbb8807b" />
+<img width="300" alt="스크린샷 2025-06-10 오후 6 02 48" src="https://github.com/user-attachments/assets/07ef9649-5961-46ac-89b3-39a93c903ca1" />
+<img width="300" alt="스크린샷 2025-06-10 오후 6 03 41" src="https://github.com/user-attachments/assets/89bfaea4-fef4-4f56-9376-294b32640fda" />
+<img width="300" alt="스크린샷 2025-06-10 오후 6 03 45" src="https://github.com/user-attachments/assets/3dc27923-da37-4537-a2fe-771cc9bd97ba" />
+<img width="300" alt="스크린샷 2025-06-10 오후 6 03 49" src="https://github.com/user-attachments/assets/12d0f105-85ae-4700-af33-24e7df30a868" />
+<img width="300" alt="스크린샷 2025-06-10 오후 6 03 51" src="https://github.com/user-attachments/assets/37c8c071-718f-4428-8c9f-8eb0b620984e" />
+<img width="300" alt="스크린샷 2025-06-10 오후 6 03 54" src="https://github.com/user-attachments/assets/d1939963-8620-48f9-bedb-b8dd1c71ef70" />
+
+
+### Home
+<img width="612" alt="스크린샷 2025-06-10 오후 6 07 52" src="https://github.com/user-attachments/assets/57d54060-c72c-4385-b145-be972e3a4af9" />
+
+
+### Write Diary
+<img width="300" alt="스크린샷 2025-06-10 오후 5 56 20" src="https://github.com/user-attachments/assets/093b85db-0d47-424b-9f2c-4a756c972b75" />
+<img width="300" alt="스크린샷 2025-06-10 오후 5 56 45" src="https://github.com/user-attachments/assets/12a08041-64ad-4994-9851-59ecd877bac2" />
+<img width="300" alt="스크린샷 2025-06-10 오후 6 01 25" src="https://github.com/user-attachments/assets/8dba370f-83a4-435f-ac44-f655d399878e" />
+
+### Mypage
+<img width="400" alt="스크린샷 2025-06-10 오후 5 57 10" src="https://github.com/user-attachments/assets/987f5a4b-bcbd-49ed-b49f-fa459d9e8e18" />
+<img width="400" alt="스크린샷 2025-06-10 오후 5 57 59" src="https://github.com/user-attachments/assets/41aee045-0526-43b7-b9de-3685f1cf3786" />
+<img width="400" alt="스크린샷 2025-06-10 오후 5 58 10" src="https://github.com/user-attachments/assets/cce9227c-04c2-44bf-95da-33c0a5dba1d7" />
+<img width="400" alt="스크린샷 2025-06-10 오후 5 58 23" src="https://github.com/user-attachments/assets/5dc91944-950b-4b28-a205-427ab3adb017" />
+
 <br/>
 
 ## System Architecture
+![image](https://github.com/user-attachments/assets/f4409d75-eb33-4a3a-964d-712176963969)
+
 <br/>
 © 2025 Team LPilogue
