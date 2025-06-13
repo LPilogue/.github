@@ -103,6 +103,11 @@ Security: Spring Security + JWT
 API Docs: Swagger (SpringDoc OpenAPI)
 Build Tool: Gradle
 ```
+
+### REC
+```
+```
+
 <br/>
 
 ## Screen composition
