@@ -96,6 +96,12 @@ HTTP Client: Axios
 
 ### BE
 ```
+Framework: Spring Boot 3.2.3
+Language: Java 17
+Database: MySQL 8.2.0
+Security: Spring Security + JWT
+API Docs: Swagger (SpringDoc OpenAPI)
+Build Tool: Gradle
 ```
 <br/>
 
