@@ -50,6 +50,9 @@ LPilogue analyzes users’ daily diaries to understand their emotions and provid
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini%201.5%20Flash-4285F4?style=for-the-badge&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Whisper-FFAD00?style=for-the-badge&logo=openai&logoColor=black">
+<img src="https://img.shields.io/badge/OpenWeatherAPI-FFCC70?style=for-the-badge&logo=OpenWeatherMap&logoColor=black">
 
 </td>  
 </tr>
@@ -107,6 +110,12 @@ Build Tool: Gradle
 
 ### REC
 ```
+Framework: Flask 3.1
+Language: Python 3.12
+Database: MySQL 8 (PyMySQL, SQLAlchemy 사용)
+ML/AI: scikit-learn, pandas, numpy, transformers, sentence-transformers, torch
+API Docs: Swagger (flasgger)
+ETC: Flask-CORS, gunicorn, spotipy, sounddevice, ffmpeg-python, requests, python-dotenv
 ```
 
 <br/>
